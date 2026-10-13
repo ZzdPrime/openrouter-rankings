@@ -1,7 +1,7 @@
 {
   "meta": {
     "source_url": "https://openrouter.ai/rankings",
-    "fetched_at": "2026-10-12T13:34:51.446112+00:00",
+    "fetched_at": "2026-10-13T12:58:42.166469+00:00",
     "counts": {
       "models": 0,
       "categories_programming": 0,
@@ -45,20 +45,20 @@
     },
     {
       "rank": 3,
-      "model_id": "anthropic/claude-fable-5.1-20260831",
-      "name": "Claude Fable 5.1 (Max, Default Fallback)",
-      "author": "anthropic",
-      "slug": "claude-fable-5.1-20260831",
-      "url": "https://openrouter.ai/anthropic/claude-fable-5.1-20260831",
-      "score": 53.4
-    },
-    {
-      "rank": 4,
       "model_id": "qwen/qwen3.8-max-20260803",
       "name": "Qwen3.8 Max",
       "author": "qwen",
       "slug": "qwen3.8-max-20260803",
       "url": "https://openrouter.ai/qwen/qwen3.8-max-20260803",
+      "score": 53.4
+    },
+    {
+      "rank": 4,
+      "model_id": "anthropic/claude-fable-5.1-20260831",
+      "name": "Claude Fable 5.1 (Max, Default Fallback)",
+      "author": "anthropic",
+      "slug": "claude-fable-5.1-20260831",
+      "url": "https://openrouter.ai/anthropic/claude-fable-5.1-20260831",
       "score": 53.4
     },
     {
@@ -522,20 +522,20 @@
     },
     {
       "rank": 56,
-      "model_id": "upstage/solar-pro4-20260810",
-      "name": "Solar Pro 4",
-      "author": "upstage",
-      "slug": "solar-pro4-20260810",
-      "url": "https://openrouter.ai/upstage/solar-pro4-20260810",
-      "score": 28.2
-    },
-    {
-      "rank": 57,
       "model_id": "nex-agi/nex-n2-pro",
       "name": "Nex-N2-Pro (Based on Qwen3.5-397B-A17B)",
       "author": "nex-agi",
       "slug": "nex-n2-pro",
       "url": "https://openrouter.ai/nex-agi/nex-n2-pro",
+      "score": 28.2
+    },
+    {
+      "rank": 57,
+      "model_id": "upstage/solar-pro4-20260810",
+      "name": "Solar Pro 4",
+      "author": "upstage",
+      "slug": "solar-pro4-20260810",
+      "url": "https://openrouter.ai/upstage/solar-pro4-20260810",
       "score": 28.2
     },
     {
@@ -1053,20 +1053,20 @@
     },
     {
       "rank": 115,
-      "model_id": "minimax/minimax-m2",
-      "name": "MiniMax-M2",
-      "author": "minimax",
-      "slug": "minimax-m2",
-      "url": "https://openrouter.ai/minimax/minimax-m2",
-      "score": 18.6
-    },
-    {
-      "rank": 116,
       "model_id": "kwaipilot/kat-coder-pro-v1",
       "name": "KAT-Coder-Pro V1",
       "author": "kwaipilot",
       "slug": "kat-coder-pro-v1",
       "url": "https://openrouter.ai/kwaipilot/kat-coder-pro-v1",
+      "score": 18.6
+    },
+    {
+      "rank": 116,
+      "model_id": "minimax/minimax-m2",
+      "name": "MiniMax-M2",
+      "author": "minimax",
+      "slug": "minimax-m2",
+      "url": "https://openrouter.ai/minimax/minimax-m2",
       "score": 18.6
     },
     {
@@ -1143,20 +1143,20 @@
     },
     {
       "rank": 125,
-      "model_id": "openai/o4-mini-2025-04-16",
-      "name": "o4-mini (High)",
-      "author": "openai",
-      "slug": "o4-mini-2025-04-16",
-      "url": "https://openrouter.ai/openai/o4-mini-2025-04-16",
-      "score": 16.7
-    },
-    {
-      "rank": 126,
       "model_id": "google/gemma-4-26b-a4b-it-20260403",
       "name": "Gemma 4 26B A4B (Reasoning)",
       "author": "google",
       "slug": "gemma-4-26b-a4b-it-20260403",
       "url": "https://openrouter.ai/google/gemma-4-26b-a4b-it-20260403",
+      "score": 16.7
+    },
+    {
+      "rank": 126,
+      "model_id": "openai/o4-mini-2025-04-16",
+      "name": "o4-mini (High)",
+      "author": "openai",
+      "slug": "o4-mini-2025-04-16",
+      "url": "https://openrouter.ai/openai/o4-mini-2025-04-16",
       "score": 16.7
     },
     {
